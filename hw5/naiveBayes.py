@@ -70,7 +70,6 @@ def generate_voc(training_path):
                                     counter[stemmed_word] += 1
         voc = [key for key, count in counter.most_common(500) if count > 10]
         voc.append("UNK")
-        print voc
         return voc
     else:
         return static_vocabulary
