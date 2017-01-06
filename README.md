@@ -29,6 +29,7 @@ Achieved 80% test accuracy using Multinomial and 78% test accuracy using Multiva
 # hw6  k-means clustering and gmm clustering
 
 Implemented k-means clustering and gmm clustering from scratch for two set of data respectively
+
 Used knee-finding to find the best k.
 
 Archived good purity for both clustering method on the data set.
