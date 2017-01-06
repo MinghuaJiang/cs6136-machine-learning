@@ -25,3 +25,10 @@ Created unigram bag of word representation for data set.
 Implemented the two model's training and testing without using sklearn and achieved the same test accuracy compared with using sklearn.
 
 Achieved 80% test accuracy using Multinomial and 78% test accuracy using Multivariate Bernoulli
+
+# hw6  k-means clustering and gmm clustering
+
+Implemented k-means clustering and gmm clustering from scratch for two set of data respectively
+Used knee-finding to find the best k.
+
+Archived good purity for both clustering method on the data set.
