@@ -20,7 +20,7 @@ Multinomial and Multivariate Bernoulli
 
 Used NLTK to preprocessed the data including stopword removing, stemming, vocabulary generation.
 
-Created bag of word representation for data set.
+Created unigram bag of word representation for data set.
 
 Implemented the two model's training and testing without using sklearn and achieved the same test accuracy compared with using sklearn.
 
